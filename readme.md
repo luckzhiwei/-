@@ -8,7 +8,7 @@
 * Base knowledge ：掌握数据结构与算法,计算机网络,计算机组成原理,计算机操作系统,计算机系统结构等计算机课程基础知识。掌握Git等版本控制工具，熟悉Git的常见开发流程以及Gitlab-ci流程.掌握敏捷开发以及SCRUM软件开发流程。
 
 * Development：
-  *  熟悉Java基础，熟悉Android SDK 基本库的使用，掌握Android NDK 开发，熟悉Android UI,网络等其他常见业务逻辑开发,熟练使用握Volley，ImageLoader，Retrofit,Fastjon,GreenDao等android常用框架。有Android Framework源代码阅读经历。
+  *  掌握Java基础，熟悉Android SDK 基本库的使用，掌握Android NDK 开发，熟悉Android UI,网络等其他常见业务逻辑开发,熟练使用握Volley，ImageLoader，Retrofit,Fastjon,GreenDao等android常用框架。有Android Framework源代码阅读经历。
   *  掌握常见的设计模式和面向对象编程思想。
   *  掌握Nodejs后台开发，使用其编写后台逻辑,熟练使用koa框架。
   *  掌握Docker的使用方法，是Docker的重度使用者。
