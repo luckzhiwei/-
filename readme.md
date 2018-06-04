@@ -36,7 +36,7 @@
  个人职责：需求分析，设计接口，编写android数据加密的白盒sdk</br>
  参与android rom的集成以及车机助手编写，项目测试
 
-* <h6> github 开源项目： ss-speed-test App 开发 2017.9-2018.1</h6>
+* <h6> github 开源项目： ss-speed-test App 开发 2017.10-至今</h6>
  个人职责： 需求分析，架构设计，负责开发 ss-speed-test（shadowsocks 测速）App，并且进行测试 
 
 ### 项目经历（算法类）：
