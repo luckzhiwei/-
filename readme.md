@@ -46,7 +46,7 @@
 
 ####  SS 助手 App 开发	2017.10-至今
 
-  * 项目介绍：：该项目为 Github 开源项目。主要目的是在 Android 客户端上实现 Shadowsocks 代理服务器的测速功能以及对代理服务器进行评分，以便用户选择当前状态最好的节点来进行代理翻墙。项目地址： https://github.com/luckzhiwei/ss-speed-test-client， 预计在不久之后会发布于 Google play。感谢项目·贡献者：@linanwx
+  * 项目介绍：：该项目为 Github 开源项目。主要目的是在 Android 客户端上实现 Shadowsocks 代理服务器的测速功能以及对代理服务器进行评分，以便用户选择当前状态最好的节点来进行代理翻墙。项目地址： https://github.com/luckzhiwei/ss-speed-test-client， 预计在不久之后会发布于 Google play。感谢项目贡献者：[linanwx](https://github.com/linanwx)
   * 个人职责
     1. 负责需求整理，明确功能点以及目标。
     2. 负责 SS 助手服务器列表测速以及评分等功能点的开发和测试。
